@@ -3,8 +3,8 @@
 
 This section focuses on practical, day-to-day IT support tasks and essential customer service skills.
 
-- **[Working Tickets](The_Day_to_Day/01_Working_Tickets/)**
-  - *[Exercise - Working Tickets](The_Day_to_Day/01_Working_Tickets/Exercise_Working_Tickets.md)*
+- **[Working Os Tickets](The_Day_to_Day/01_Working_Tickets/)**
+  - *[Exercise - Working Os Tickets](The_Day_to_Day/01_Working_Tickets/Exercise_Working_Tickets.md)*
 
 - **[Common Issues](The_Day_to_Day/03_Common_Issues/)**
   - *[Exercise - Common Issues](The_Day_to_Day/03_Common_Issues/Exercise_Common_Issues.md)*
