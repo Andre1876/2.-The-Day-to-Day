@@ -1,6 +1,6 @@
 # 2 The-Day-to-Day
 
-## 2 The Day-to-Day
+
 This section focuses on practical, day-to-day IT support tasks and essential customer service skills.
 
 - **[Working Tickets](The_Day_to_Day/01_Working_Tickets/)**
